@@ -1,5 +1,3 @@
-//Developed by: Matthew Berdecia
-//Date: August 13th, 2023 
 #include "data.h"
 int main() {
 	//Create strings that are assigned with values of files
