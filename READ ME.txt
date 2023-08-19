@@ -1,0 +1,3 @@
+For this project we have created an algorithm that, to begin with, returns a numeric value for the frequency of the specific word,prints the result in a numeric, but also, a non-numeric form.
+With that being one of our prompts, I have decided to declare all my variables in the header file, (data.h), data.cpp is where I devoloped the code for this. Within the code you will see comments explaing my reasoning, explaining why I
+declared variables/used certain commands. 
