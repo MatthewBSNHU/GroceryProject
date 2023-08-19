@@ -1,3 +1,3 @@
 For this project we have created an algorithm that, to begin with, returns a numeric value for the frequency of the specific word,prints the result in a numeric, but also, a non-numeric form.
-With that being one of our prompts, I have decided to declare all my variables in the header file, (data.h), data.cpp is where I devoloped the code for this. Within the code you will see comments explaing my reasoning, explaining why I
-declared variables/used certain commands. 
+To complete this project I have used some of the resources in my hand, such as, tutoring provided from my university, while also devoloping with a friend I have met in this course. I believe my code is easily understandable, but I also see room for improvement, as there is always something we can do to make a code be more easily comprehended. 
+With that being one of our prompts, I have decided to declare all my variables in the header file, (data.h), data.cpp is where I devoloped the code for this. Within the code you will see comments explaing my reasoning, explaining why I declared variables/used certain commands. 
